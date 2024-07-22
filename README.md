@@ -1,2 +1,2 @@
-# DBM-RawData
-Discord Bot Maker - Hazır Komut ve Eventler
+# Discord Bot Maker - Raw Data
+Yaptığım Hazır Komutlar ve Event Raw Datalarını bulabilirsiniz.
